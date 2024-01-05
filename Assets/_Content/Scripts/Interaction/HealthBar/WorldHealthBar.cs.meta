@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 331fd18d4191c254c8760ef8c7df62c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dynamicGradient: {fileID: 2100000, guid: 76f84c0a744113640be4c280576b1816, type: 2}
+  - dynamicColor: {fileID: 2100000, guid: c6cc2e54de28675459b379cf269814ec, type: 2}
+  - playerHealth: {fileID: 11400000, guid: ecdd7ae9b5818644aa8ebeba1314cce9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
