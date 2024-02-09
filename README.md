@@ -6,3 +6,6 @@ Underwater Paradise is an arcade-style VR shooter in which you have to collect g
 - [Sebastian Pütz](https://www.linkedin.com/in/sebastian-ptz/) - Thematic concept
 - [Ralf Strecker](https://ralfstrecker.com) - Programming & sound design
 - Manja Wischer - User testing
+
+# Unity version
+2020.3.34f1
